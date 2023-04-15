@@ -26,9 +26,9 @@ Aꜱᴘɪʀɪɴɢ Software engineering | Web Developer |
   
 ## Technologies:
 - JavaScript
-- Java.
-- HTML/CSS/JS.
+- HTML.
 - CSS.
+- Java.
 
 
 
