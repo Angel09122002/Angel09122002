@@ -43,7 +43,7 @@ Aꜱᴘɪʀɪɴɢ Software engineering | Web Developer |
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt="HTML5" width="60" height="60"/></code>
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt="CSS3" width="60" height="60"/></code>
 <code> <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt="JavaScript" width="60" height="60"/></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)></code>
+<code> <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="JavaScript" width="60" height="60"/></code>
 
 <h4>Desktop Environment:</h4>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt="VS Code" width="60" height="60"/>
